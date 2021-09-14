@@ -18,4 +18,4 @@ Este software les permite a los usuarios divertirse mientras desarrollan la eval
 
 ## URL
 
-[https://invensoft.tech/EventoGraduadosEnd/](url)
+https://invensoft.tech/EventoGraduadosEnd/
